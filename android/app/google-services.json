@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190417286685",
+    "project_id": "ms-management-app",
+    "storage_bucket": "ms-management-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190417286685:android:513b53e67e79c0603cf8f4",
+        "android_client_info": {
+          "package_name": "com.example.ms_management_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190417286685-60ivup5kfit8l6nr4ai87kimpiqjso5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDATrX99kQF4NTM_NyTAjV18u1QOHcJJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190417286685-60ivup5kfit8l6nr4ai87kimpiqjso5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
